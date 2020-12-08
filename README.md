@@ -11,7 +11,7 @@ Clone it by
 ```bash
 git clone https://github.com/anubhavanonymous/CipherClaw
 ```
-Now, Go to the CipherClaw Directory
+Go to the CipherClaw Directory
 ```bash
 cd CipherClaw
 ```
