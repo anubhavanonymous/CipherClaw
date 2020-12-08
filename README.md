@@ -3,8 +3,10 @@
 
 * `A simple script to Encode and Decode text in Blank Format !`
 
+<br><br>
+<b>Credits:<br></b>
 
-* Credits- https://github.com/SpookySec
+<a href='https://github.com/SpookySec'>Spooky Sec<br></a>
 
 ## Usage
 Clone it by
@@ -19,7 +21,3 @@ Run it
 ```bash
 bash cipherclaw.sh
 ```
-<br><br>
-<b>Credits:<br></b>
-
-<a href='https://github.com/SpookySec'>Spooky Sec<br></a>
