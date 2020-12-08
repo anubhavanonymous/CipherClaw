@@ -4,7 +4,7 @@ A simple script to Encode and Decode text in Blank Format !
 
 Credits- https://github.com/SpookySec
 
-##Usage
+## Usage
 Clone it by
 ```bash
 git clone https://github.com/anubhavanonymous/CipherClaw
