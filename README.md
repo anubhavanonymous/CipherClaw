@@ -8,7 +8,7 @@
 
 <a href='https://github.com/SpookySec'>Spooky Sec<br></a>
 
-## Usage
+<b>Usage:<br></br>
 Clone it by
 ```bash
 git clone https://github.com/anubhavanonymous/CipherClaw
