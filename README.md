@@ -1,6 +1,6 @@
-# CipherClaw
+# CipherClaw 🦅
 
-* 'A simple script to Encode and Decode text in Blank Format !'
+* `A simple script to Encode and Decode text in Blank Format !`
 <img src="PicsArt_12-08-08.38.19.jpg"><br>
 Credits- https://github.com/SpookySec
 
