@@ -1,3 +1,3 @@
 # CipherClaw
 
-Credits- github.com/SpookySec
+Credits- https://github.com/SpookySec
