@@ -1,3 +1,3 @@
 # CipherClaw
 
-Credits- @spooky_sec
+Credits- @spookySec
