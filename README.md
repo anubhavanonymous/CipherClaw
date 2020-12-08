@@ -19,3 +19,7 @@ Run it
 ```bash
 bash cipherclaw.sh
 ```
+<br><br>
+<b>Credits:<br></b>
+
+<a href='https://github.com/SpookySec'>Spooky Sec<br></a>
