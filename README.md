@@ -8,16 +8,12 @@
 
 <a href='https://github.com/SpookySec'>Spooky Sec<br></a>
 
-## Usage:
-Clone it by
+## Steps:
+
 ```bash
 git clone https://github.com/anubhavanonymous/CipherClaw
-```
-Go to the CipherClaw Directory
-```bash
+
 cd CipherClaw
-```
-Run it 
-```bash
+
 bash cipherclaw.sh
 ```
