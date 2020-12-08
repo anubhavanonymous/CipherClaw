@@ -3,7 +3,7 @@
 
 * `A simple script to Encode and Decode text in Blank Format !`
 
-<br><br>
+<br>
 ## Credits:
 
 <a href='https://github.com/SpookySec'>Spooky Sec<br></a>
