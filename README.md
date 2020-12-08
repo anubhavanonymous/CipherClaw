@@ -2,7 +2,6 @@
 
 
 * `A simple script to Encode and Decode text in Blank Format !`
-
 <br><br>
 <b>Credits:<br></b>
 
