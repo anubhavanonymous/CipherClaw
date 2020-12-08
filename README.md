@@ -1,5 +1,6 @@
 # CipherClaw 🔐
-https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white
+
+<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" />
 
 * `A simple script to Encode and Decode text in Blank Format !`
 
