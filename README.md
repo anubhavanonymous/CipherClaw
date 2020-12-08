@@ -4,11 +4,11 @@
 * `A simple script to Encode and Decode text in Blank Format !`
 
 <br><br>
-<b>Credits:<br></b>
+## Credits:
 
 <a href='https://github.com/SpookySec'>Spooky Sec<br></a>
 
-<b>Usage:<br></br>
+## Usage:
 Clone it by
 ```bash
 git clone https://github.com/anubhavanonymous/CipherClaw
